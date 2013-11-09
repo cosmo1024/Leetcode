@@ -1,3 +1,5 @@
+//This line is for testing the diff function of the Git command
+
 ﻿//Hint: a. the use of buffer_q; b. the use of dict.erase(); c.http://blog.csdn.net/zxzxy1988/article/details/8591890
 // 这种方法可以推广到分层打印BST
 
