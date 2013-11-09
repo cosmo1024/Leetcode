@@ -10,7 +10,7 @@ public class Solution {
         
         ArrayList<Integer> cur_permutation = new ArrayList<Integer>();
         
-		get_permutation(number, cur_permutation, result);
+	get_permutation(number, cur_permutation, result);
         
         return result;
     }
